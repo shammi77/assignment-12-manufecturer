@@ -7,7 +7,7 @@ const AvailableParts = () => {
     const [order,setOrder]=useState([null]);
 
     useEffect(()=>{
-        fetch('http://localhost:5000/part')
+        fetch('https://calm-taiga-49700.herokuapp.com/part')
             .then(res=>res.json())
             .then(data => setParts(data));
         

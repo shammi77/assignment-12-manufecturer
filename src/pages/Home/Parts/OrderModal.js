@@ -23,7 +23,7 @@ const OrderModal = ({order , setOrder}) => {
           phone: event.target.phone.value
         }
 
-        fetch('http://localhost:5000/booking',{
+        fetch('https://calm-taiga-49700.herokuapp.com/booking',{
           method: 'POST',
           headers:{
             'content-type': 'application/json'

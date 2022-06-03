@@ -11,7 +11,7 @@ const MyOrders = () => {
 
     useEffect(()=>{
         if(user){
-            fetch(`http://localhost:5000/booking?customer=${user.email}`,{
+            fetch(`https://calm-taiga-49700.herokuapp.com/booking?customer=${user.email}`,{
                 method: 'GET',
                 headers: {
                     'authorization': `Bearer ${localStorage.getItem('accessToken')}` 
