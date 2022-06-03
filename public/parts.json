@@ -1,0 +1,56 @@
+[
+    {
+        "_id":1,
+        "name": "Monitor",
+        "img":"https://i.ibb.co/F0SsCQw/images-1.jpg",
+        "description": "Find out your preferable Gaming, Professional & Regular Monitors at a reasonable price. We have a huge collection of HP, Lenovo, BenQ, Huawei etc.",
+        "minimumOrderQuantity":"20",
+        "availableQuantity": "300",
+        "price": "$150"
+    },
+    {
+        "_id":2,
+        "name": "CPU",
+        "img":"https://i.ibb.co/FsWCmGy/download2.jpg",
+        "description": "central processing unit (CPU), principal part of any digital computer system, generally composed of the main memory, control unit, and arithmetic-logic unit.",
+        "minimumOrderQuantity":"10",
+        "availableQuantity": "100",
+        "price": "$350"
+    },
+    {
+        "_id":3,
+        "name": "MotherBoard",
+        "img":"https://i.ibb.co/fDFkHQj/download3.jpg",
+        "description": "A motherboard is a printed circuit board or a PCB that creates the skeletal structure of a PC. It hosts components such as the Processor or CPU, graphics ",
+        "minimumOrderQuantity":"100",
+        "availableQuantity": "500",
+        "price": "$50"
+    },
+    {
+        "_id":4,
+        "name": "Key Board",
+        "img":"https://i.ibb.co/bbdwTpF/images-2.jpg",
+        "description": "A computer keyboard is a peripheral input device modeled after the typewriter keyboard which uses an arrangement of buttons or keys to act as mechanical.",
+        "minimumOrderQuantity":"500",
+        "availableQuantity": "1000",
+        "price": "$10"
+    },
+    {
+        "_id":5,
+        "name": "Printer",
+        "img":"https://i.ibb.co/4J8dBhx/images-3.jpg",
+        "description": "In computing, a printer is a peripheral machine which makes a persistent representation of graphics or text, usually on paper.",
+        "minimumOrderQuantity":"1",
+        "availableQuantity": "30",
+        "price": "$95"
+    },
+    {
+        "_id":6,
+        "name": "Mouse",
+        "img":"https://i.ibb.co/qjNn5Y2/images.jpg",
+        "description": "A computer mouse (plural mice, sometimes mouses) is a hand-held pointing device that detects two-dimensional motion relative to a surface.",
+        "minimumOrderQuantity":"50",
+        "availableQuantity": "400",
+        "price": "$14"
+    }
+]
